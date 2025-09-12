@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+ℹ️📰️💾️ The official source repository for the OpenAd Specification project, an advertisement format that is optional, non-intrusive, privacy friendly, free, and open source.
