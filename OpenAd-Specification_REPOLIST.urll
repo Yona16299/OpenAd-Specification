@@ -2,10 +2,10 @@
 //// OpenAd-Specification_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all OpenAd Specification project repositories by @seanpm2001
-//// As of 2025, Tuesday, September 16th
+//// As of 2025, Wednesday, September 17th
 
 //// ----------------------------------------------------- \\\\
-//// OpenAd Specification Project (12)
+//// OpenAd Specification Project (15)
 //// ----------------------------------------------------- \\\\
 
 //// OpenAd Specification Core (1)
@@ -29,6 +29,11 @@ https://github.com/seanpm2001/OpenAd-Specification_Website
 https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Audio
 https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Audio_Docs
 
+//// //// OpenAd Specification: Ad Engine / Forms (2)
+
+https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Forms
+https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Forms_Docs
+
 //// //// OpenAd Specification: Ad Engine / Games (2)
 
 https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Games
@@ -39,9 +44,10 @@ https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Games_Docs
 https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Images
 https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Images_Docs
 
-//// //// OpenAd Specification: Ad Engine / Text (1)
+//// //// OpenAd Specification: Ad Engine / Text (2)
 
 https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Text
+https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Text_Docs
 
 //// //// OpenAd Specification: Ad Engine / Video (2)
 
@@ -49,28 +55,28 @@ https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Video
 https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Video_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (OpenAd Specification): 12
-//// 1+1+1+2+2+2+1+2=12
+//// Repo count (OpenAd Specification): 15
+//// 1+1+1+2+2+2+2+2+2=15
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// See also (0)
 
-//// Nothing to list
+//// No projects to list here
 
 //// ----------------------------------------------------- \\\\
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 9
-//// 9+0=9
+//// Total repo count: 16
+//// 15+1=16
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 4 (2025, Tuesday, September 14th at 08:26 pm PST)
-//// Line count (including blank lines and compiler line): 77
+//// File version: 5 (2025, Wednesday, September 17th at 08:45 pm PST)
+//// Line count (including blank lines and compiler line): 83
 //// ----------------------------------------------------- \\\\
 
 //// End of file
